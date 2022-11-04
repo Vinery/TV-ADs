@@ -143,3 +143,10 @@
 127.0.0.1 rdl.lgtvcommon.com
 127.0.0.1 recommend.lgtvcommon.com
 127.0.0.1 lgsmartad.com
+
+### skyworth
+127.0.0.1 status.tvos.skysrt.com
+127.0.0.1 tclb.skysrt.com
+127.0.0.1 test.rangnihaokan.com
+127.0.0.1 idtv.skyworthdigital.com
+127.0.0.1 sky.tvos.skysrt.com
