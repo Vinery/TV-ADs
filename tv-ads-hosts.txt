@@ -7,7 +7,7 @@
 
 # HomePage: https://github.com/Vinery/tv-ads
 # Source: https://vinery.github.io/TV-ADs/tv-ads-hosts.txt
-# support MI TV, LG TV. 
+# support MI TV, LG, skyworth. 
 
 ###  Mi TV 
 ## 米家app需要前两行,不用米家可以取消注释
