@@ -15,8 +15,9 @@ Block ads for some TVs, especially those sold in the China region. Rules apply t
 ## Supported Brands
 + Xiaomi
 + LG
++ skyworth
 
 ## 支持的品牌
 + 小米
 + LG
-
++ 创维
