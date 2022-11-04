@@ -5,8 +5,9 @@
 #          /_/    |___/     /_/  |_/_____//____/  
                                   
 
-#HomePage https://github.com/Vinery/tv-ads
-#support MI TV, LG TV. 
+# HomePage: https://github.com/Vinery/tv-ads
+# Source: https://vinery.github.io/TV-ADs/tv-ads-hosts.txt
+# support MI TV, LG TV. 
 
 ###  Mi TV 
 ## 米家app需要前两行,不用米家可以取消注释
