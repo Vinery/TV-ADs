@@ -150,3 +150,29 @@
 127.0.0.1 idtv.skyworthdigital.com
 127.0.0.1 sky.tvos.skysrt.com
 127.0.0.1 status2.tvos.skysrt.com
+
+### TCL & FFALCON(leniao)
+127.0.0.1	adashbc.ut.taobao.com
+127.0.0.1	api-upgrade-platform.huan.tv
+127.0.0.1	control.tclai.top
+127.0.0.1	dc-conf-o.api.leiniao.com
+127.0.0.1	dc-o.api.leiniao.com
+127.0.0.1	earthquake-o.api.leiniao.com
+127.0.0.1	file-lanucher-o.api-cn.leiniao.com
+127.0.0.1	io.zx.tcljd.com
+127.0.0.1	laucolumn-o.api.leiniao.com
+127.0.0.1	launcher.tcloudfamily.com
+127.0.0.1	msg-ds-o.api.leiniao.com
+127.0.0.1	mtrace.play.aiseet.atianqi.com
+127.0.0.1	open.tclai.top
+127.0.0.1	openplat.hpplay.cn
+127.0.0.1	oss.launcher.tcloudfamily.com
+127.0.0.1	snowflake.play.aiseet.atianqi.com
+127.0.0.1	tclapi-appstore.huan.tv
+127.0.0.1	tmdeviceapi.tclking.com
+127.0.0.1	tmdeviceapicn.tclking.com
+127.0.0.1	tv.aiseet.atianqi.com
+127.0.0.1	tvapi.kookong.com
+127.0.0.1	tvuser-ch.cedock.com
+127.0.0.1	vipauth.hpplay.cn
+127.0.0.1	vippanel-o.api.leiniao.com
