@@ -19,8 +19,10 @@ Block ads for some TVs, especially those sold in the China region. Rules apply t
 + Xiaomi
 + LG
 + skyworth
++ TCL & FFALCON(leniao)
 
 ## 支持的品牌
 + 小米
 + LG
 + 创维
++ TCL & 雷鸟
